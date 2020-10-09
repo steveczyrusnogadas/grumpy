@@ -1,5 +1,13 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Setup Environment Variable
+
+Although not really required, this application was tested with a working api key from https://thecatapi.com/.
+
+To set it up, create a `.env` file on the root directory of the project and use this variable `REACT_APP_CAT_API_KEY`<br />
+to hold your `API KEY`.
+
+
 ## Available Scripts
 
 In the project directory, you can run:
